@@ -1,3 +1,6 @@
+###Info:
+Sublime Text snippets. It's just a preference to keep comments organized and to have the same style.
+
 ###Install:
 Drop: `Smk-Sublime-Snippets` <br>
 in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
