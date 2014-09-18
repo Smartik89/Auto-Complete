@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Title}${3:
+ *
+ * ${2:Description}}
+ *
+ * -------------------------------------------------------------------------------------
+ * Author: Smartik
+ * Author URI: http://smartik.ws/
+ * Copyright: (c) 2014 Smartik. All rights reserved
+ * -------------------------------------------------------------------------------------
+ *
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>cci_comment_copyright_info</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>
