@@ -21,7 +21,7 @@ in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
  */
 ```
 
-###`comm_large_php_js_css` - All sources
+###`comm_large_php_js_css`
 ```css
 /*
 -------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ This comment automatically expands the underline.
 ------------------------------------------------*/
 ```
 
-###`comm_head_docs_php_js` - PHP
+###`comm_head_docs_php_js`
 ```php
 /**
  * [[Title]]
@@ -49,7 +49,7 @@ This comment automatically expands the underline.
  */
 ```
 
-###`comm_head_docs_sep_php_js` - PHP
+###`comm_head_docs_sep_php_js`
 ```php
 
 //------------------------------------//--------------------------------------//
@@ -64,35 +64,35 @@ This comment automatically expands the underline.
  */
 ```
 
-###`comm_separator_php_js_less` - PHP
+###`comm_separator_php_js_less`
 ```php
 
 //------------------------------------//--------------------------------------//
 
 ```
 
-###`comm_separator_css` - PHP
+###`comm_separator_css`
 ```css
 
 /*------------------------------------//--------------------------------------*/
 
 ```
 
-###`comm_end_php_js_less` - PHP
+###`comm_end_php_js_less`
 ```php
 
 //-------- [[Text]] -------//
 
 ```
 
-###`comm_end_css` - PHP
+###`comm_end_css`
 ```css
 
 /*-------- [[Text]] -------*/
 
 ```
 
-###`comm_large_html` - All sources
+###`comm_large_html`
 ```html
 <!--
 // ===================================^__^=================================== //
