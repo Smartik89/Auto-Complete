@@ -8,14 +8,14 @@ in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
 ###`comm_header_info`
 ```php
 /**
- * [[Title]]
+ * [[TITLE]]
  *
- * [[Description]]
+ * [[DESCRIPTION]]
  *
  * -------------------------------------------------------------------------------------
- * Author: [[Name]]
+ * Author: [[NAME]]
  * Author URI: http://[[URL]]
- * Copyright: (c) [[YEAR]] [[Name]]. All rights reserved
+ * Copyright: (c) [[YEAR]] [[NAME]]. All rights reserved
  * -------------------------------------------------------------------------------------
  *
  */
@@ -25,7 +25,7 @@ in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
 ```css
 /*
 -------------------------------------------------------------------------------
-[[Title]]
+[[TITLE]]
 -------------------------------------------------------------------------------
 */
 ```
@@ -33,16 +33,16 @@ in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
 ###`comm_small_php_js_css`
 This comment automatically expands the underline.
 ```css
-/* [[Title]]
-------------------------------------------------*/
+/* [[TITLE]]
+-------------------------*/
 ```
 
 ###`comm_head_docs_php_js`
 ```php
 /**
- * [[Title]]
+ * [[TITLE]]
  *
- * [[Description]]
+ * [[DESCRIPTION]]
  *
  * @param string 
  * @return string 
@@ -55,9 +55,9 @@ This comment automatically expands the underline.
 //------------------------------------//--------------------------------------//
 
 /**
- * [[Title]]
+ * [[TITLE]]
  *
- * [[Description]]
+ * [[DESCRIPTION]]
  *
  * @param string 
  * @return string 
@@ -81,14 +81,14 @@ This comment automatically expands the underline.
 ###`comm_end_php_js_less`
 ```php
 
-//-------- [[Text]] -------//
+//-------- [[TEXT]] -------//
 
 ```
 
 ###`comm_end_css`
 ```css
 
-/*-------- [[Text]] -------*/
+/*-------- [[TEXT]] -------*/
 
 ```
 
@@ -117,6 +117,26 @@ Table of contents
 TODO:
 [[TEXT]]
 */
+
+
+```
+
+###`comm_small_less`
+This comment automatically expands the underline.
+```php
+
+// [[TITLE]]
+// ---------------------
+
+
+```
+
+###`comm_large_less`
+```php
+
+// ----------------------------------------------------------------------------
+// [[TEXT]]
+// ----------------------------------------------------------------------------
 
 
 ```
