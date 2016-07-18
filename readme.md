@@ -5,72 +5,94 @@ Sublime Text snippets. It's just a preference to keep comments organized and to 
 Drop: `Smk-Sublime-Snippets` <br>
 in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
 
-###`cci_comment_copyright_info` - All sources
+###`comm_header_info`
 ```php
 /**
- * Title
+ * [[Title]]
  *
- * Description
+ * [[Description]]
  *
  * -------------------------------------------------------------------------------------
- * Author: Smartik
+ * Author: [[Name]]
  * Author URI: http://smartik.ws/
- * Copyright: (c) 2014 Smartik. All rights reserved
+ * Copyright: (c) 2014 [[Name]]. All rights reserved
  * -------------------------------------------------------------------------------------
  *
  */
 ```
 
-###`ccl_comment_css_large` - All sources
+###`comm_large_php_js_css` - All sources
 ```css
 /*
 -------------------------------------------------------------------------------
-
+[[Title]]
 -------------------------------------------------------------------------------
 */
 ```
 
-###`ccs_comment_css_small` - All sources
+###`comm_small_php_js_css`
+This comment automatically expands the underline.
 ```css
-/* 
+/* [[Title]]
 ------------------------------------------------*/
 ```
 
-###`cpd_comment_php_documentor` - PHP
+###`comm_head_docs_php_js` - PHP
 ```php
 /**
- * Title
+ * [[Title]]
  *
- * Description
+ * [[Description]]
  *
  * @param string 
  * @return string 
  */
 ```
 
-###`cpds_comment_php_documentor_separator` - PHP
+###`comm_head_docs_sep_php_js` - PHP
 ```php
 
 //------------------------------------//--------------------------------------//
 
 /**
- * Title
+ * [[Title]]
  *
- * Description
+ * [[Description]]
  *
  * @param string 
  * @return string 
  */
 ```
 
-###`cps_comment_php_separator` - PHP
+###`comm_separator_php_js_less` - PHP
 ```php
 
 //------------------------------------//--------------------------------------//
 
 ```
 
-###`chl_comment_html_large` - All sources
+###`comm_separator_css` - PHP
+```css
+
+/*------------------------------------//--------------------------------------*/
+
+```
+
+###`comm_end_php_js_less` - PHP
+```php
+
+//-------- [[Text]] -------//
+
+```
+
+###`comm_end_css` - PHP
+```css
+
+/*-------- [[Text]] -------*/
+
+```
+
+###`comm_large_html` - All sources
 ```html
 <!--
 // ===================================^__^=================================== //
