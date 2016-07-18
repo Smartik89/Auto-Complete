@@ -7,7 +7,8 @@ $1
 */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>ccl_comment_css_large</tabTrigger>
+	<tabTrigger>comm_large_php_js_css</tabTrigger>
+	<description>Large comment for PHP, JS, CSS</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<!-- <scope>source.python</scope> -->
 </snippet>

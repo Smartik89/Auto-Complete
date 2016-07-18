@@ -1,11 +1,11 @@
 <snippet>
 	<content><![CDATA[
-
-//------------------------------------//--------------------------------------//
-
+/* $1
+--------${1/./-/g}*/
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cps_comment_php_separator</tabTrigger>
+	<tabTrigger>comm_small_php_js_css</tabTrigger>
+	<description>Small comment for PHP, JS, CSS</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+	<!-- <scope>source.python</scope> -->
 </snippet>

@@ -1,0 +1,20 @@
+<snippet>
+	<content><![CDATA[
+
+//------------------------------------//--------------------------------------//
+
+/**
+ * ${1}${2:
+ *
+ * ${3:${1}}}
+ *${4:
+ * @param ${5:string} ${6}}${7:
+ * @return ${8:string} ${9}}
+ */
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>comm_head_docs_sep_php_js</tabTrigger>
+	<description>Comment head documentation with separator for PHP, JS</description>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.php</scope> -->
+</snippet>

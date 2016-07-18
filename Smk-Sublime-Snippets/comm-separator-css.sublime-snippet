@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+
+/*------------------------------------//--------------------------------------*/
+
+]]></content>
+	<tabTrigger>comm_separator_css</tabTrigger>
+	<description>Separator comment for CSS</description>
+	<!-- <scope>source.css</scope> -->
+</snippet>

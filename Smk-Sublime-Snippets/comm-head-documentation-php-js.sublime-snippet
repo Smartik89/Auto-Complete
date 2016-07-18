@@ -1,16 +1,17 @@
 <snippet>
 	<content><![CDATA[
 /**
- * ${1:Title}
- *${2:
- * ${3:Description}}
+ * ${1}${2:
+ *
+ * ${3:${1}}}
  *${4:
  * @param ${5:string} ${6}}${7:
  * @return ${8:string} ${9}}
  */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cpd_comment_php_documentor</tabTrigger>
+	<tabTrigger>comm_head_docs_php_js</tabTrigger>
+	<description>Comment head documentation for PHP, JS</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+	<!-- <scope>source.php</scope> -->
 </snippet>

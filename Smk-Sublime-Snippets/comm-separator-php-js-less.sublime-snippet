@@ -3,17 +3,10 @@
 
 //------------------------------------//--------------------------------------//
 
-/**
- * ${1:Title}
- *${2:
- * ${3:Description}}
- *${4:
- * @param ${5:string} ${6}}${7:
- * @return ${8:string} ${9}}
- */
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>cpds_comment_php_documentor_separator</tabTrigger>
+	<tabTrigger>comm_separator_php_js_less</tabTrigger>
+	<description>Separator comment for PHP, JS, LESS</description>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.php</scope>
+	<!-- <scope>source.php</scope> -->
 </snippet>
