@@ -92,6 +92,35 @@ This comment automatically expands the underline.
 
 ```
 
+###`comm_toc_php_js_css`
+```php
+
+/*
+-------------------------------------------------------------------------------
+Table of contents
+-------------------------------------------------------------------------------
+
+-- [[TEXT]]
+-- [[TEXT]]
+-- [[TEXT]]
+-- [[TEXT]]
+-- [[TEXT]]
+
+*/
+
+```
+
+###`comm_todo_php_js_css`
+```php
+
+/*
+TODO:
+[[TEXT]]
+*/
+
+
+```
+
 ###`comm_large_html`
 ```html
 <!--
