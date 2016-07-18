@@ -14,8 +14,8 @@ in: `C:\Users\<USERNAME>\AppData\Roaming\Sublime Text 3\Packages\User\`
  *
  * -------------------------------------------------------------------------------------
  * Author: [[Name]]
- * Author URI: http://smartik.ws/
- * Copyright: (c) 2014 [[Name]]. All rights reserved
+ * Author URI: http://[[URL]]
+ * Copyright: (c) [[YEAR]] [[Name]]. All rights reserved
  * -------------------------------------------------------------------------------------
  *
  */
